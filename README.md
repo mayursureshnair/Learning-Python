@@ -1,10 +1,10 @@
-# Learning Python
+# Learning Python from Scratch
 
 Welcome to my Python learning repository! This repository tracks my progress as I learn Python step-by-step, starting right from the basics.
 
-## 🚀 About the Project
+## 🚀 About the Repository
 
-This project contains code snippets, exercise problems, and basic syntax practice as I build a solid foundation in Python programming.
+This repository contains code snippets, exercise problems, and basic syntax practice as I build a solid foundation in Python programming.
 
 ## 🛠️ Prerequisites
 
